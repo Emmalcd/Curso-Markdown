@@ -52,8 +52,6 @@ _~~Cursiva y tachado~~_
 
 ## Imagenes
 
-![Imagen Markdown](https://i0.wp.com/kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
-
 ![Imagen 2 Markdown](img/md-img.png)
 
 ## Divisiones

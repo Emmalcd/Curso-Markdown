@@ -1,0 +1,17 @@
+
+html{
+    background-color: black;
+    font-family: sans-serif;
+}
+#site{
+    width: 70%;
+    margin: auto;
+    color: white;
+}
+a{
+    color: orange;
+    text-decoration: none;
+}
+img{
+    max-width: 70%;
+}
